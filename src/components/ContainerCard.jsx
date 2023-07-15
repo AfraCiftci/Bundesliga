@@ -10,7 +10,7 @@ const ContainerCard = () => {
     console.log(data)
     const handleChange = (e) =>{
         console.log(e.target.value)
-        setSearch(e.target.value) //! setter mtodları asenkron olarak çalışır.
+        setSearch(e.target.value)
       
         
     }
