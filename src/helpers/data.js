@@ -1,7 +1,7 @@
 export const data = [
   {
-    name: "Kareem Abdul-Jabbar",
-    img: "https://s22928.pcdn.co/wp-content/uploads/2018/03/Kareem-Abdul-Jabbar.jpg",
+    name: "FC Bayern München",
+    img: "https://www.bundesliga.com/assets/clublogo/DFL-CLU-00000G.svg",
     statistics: [
       "38,387 points",
       "17,440 rebaunds",
@@ -10,8 +10,8 @@ export const data = [
     ],
   },
   {
-    name: "Larry Bird",
-    img: "https://images.footballfanatics.com/boston-celtics/larry-bird-boston-celtics-unsigned-driving-to-the-basket-photograph_pi4025000_ff_4025713-3a32778de9bb567994e1_full.jpg?_hv=2&w=900",
+    name: "Borussia Dortmund",
+    img: "https://www.bundesliga.com/assets/clublogo/DFL-CLU-000007.svg",
     statistics: [
       "21,791 points",
       "8,974 rebaunds",
@@ -20,8 +20,8 @@ export const data = [
     ],
   },
   {
-    name: "Wilt Chamberlain",
-    img: "https://pbs.twimg.com/media/EQwzU_RXUAAAATG?format=jpg&name=4096x4096",
+    name: "RB Leipzig",
+    img: "https://www.bundesliga.com/assets/clublogo/DFL-CLU-000017.svg",
     statistics: [
       "31,419 points",
       "23,924 rebaunds",
@@ -30,8 +30,8 @@ export const data = [
     ],
   },
   {
-    name: "Magic Johnson",
-    img: "https://cdn.britannica.com/27/189527-050-5BAD12C2/Magic-Johnson.jpg",
+    name: "1. FC Union Berlin",
+    img: "https://www.bundesliga.com/assets/clublogo/DFL-CLU-00000V.svg",
     statistics: [
       "17,707 points",
       "6,559 rebaunds",
@@ -40,8 +40,8 @@ export const data = [
     ],
   },
   {
-    name: "Michael Jordan",
-    img: "https://cdn.europosters.eu/image/1300/posters/michael-jordan-i116434.jpg",
+    name: "Sport-Club Freiburg",
+    img: "https://www.bundesliga.com/assets/clublogo/DFL-CLU-00000A.svg",
     statistics: [
       "32,292 points",
       "6,672 rebaunds",
@@ -50,8 +50,8 @@ export const data = [
     ],
   },
   {
-    name: "Karl Malone",
-    img: "https://i.pinimg.com/564x/49/76/10/497610981fdbe0158ba09b5c8418d87d--nba-players-basketball-players.jpg",
+    name: "Bayer 04 Leverkusen",
+    img: "https://www.bundesliga.com/assets/clublogo/DFL-CLU-00000B.svg",
     statistics: [
       "36,928 points",
       "14,968 rebaunds",
@@ -60,8 +60,8 @@ export const data = [
     ],
   },
   {
-    name: "Hakeem Olajuwon",
-    img: "https://cdn.artphotolimited.com/images/60913d60bd40b85323893a87/1000x1000/hakeem-olajuwon-von-den-houston-rockets.jpg",
+    name: "Eintracht Frankfurt",
+    img: "https://www.bundesliga.com/assets/clublogo/DFL-CLU-00000F.svg",
     statistics: [
       "26,946 points",
       "13,748 rebaunds",
@@ -70,8 +70,8 @@ export const data = [
     ],
   },
   {
-    name: "Shaquille O'Neal",
-    img: "https://staticg.sportskeeda.com/editor/2018/10/6bb16-15398694878129-800.jpg",
+    name: "VfL Wolfsburg",
+    img: "https://www.bundesliga.com/assets/clublogo/DFL-CLU-000003.svg",
     statistics: [
       "28,596 points",
       "13,099 rebaunds",
@@ -80,8 +80,8 @@ export const data = [
     ],
   },
   {
-    name: "Scottie Pippen",
-    img: "https://basketballforever.com/wp-content/uploads/2020/04/Scottie-Pippen-Chicago-Bulls.jpg",
+    name: "1. FSV Mainz 05",
+    img: "https://www.bundesliga.com/assets/clublogo/DFL-CLU-000006.svg",
     statistics: [
       "18,940 points",
       "7,494 rebaunds",
