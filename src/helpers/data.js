@@ -90,8 +90,8 @@ export const data = [
     ],
   },
   {
-    name: "Patrick Ewing",
-    img: "https://cdn.britannica.com/37/231237-050-0CB78D66/Patrick-Ewing-New-York-Knicks-1986.jpg",
+    name: "Borussia Mönchengladbach",
+    img: "https://www.bundesliga.com/assets/clublogo/DFL-CLU-000004.svg",
     statistics: [
       "24,815 points",
       "11,607 rebaunds",
@@ -100,8 +100,8 @@ export const data = [
     ],
   },
   {
-    name: "Kobe Bryant",
-    img: "https://upload.wikimedia.org/wikipedia/commons/9/96/Kobe_Bryant_8.jpg",
+    name: "1. FC Köln",
+    img: "https://www.bundesliga.com/assets/clublogo/DFL-CLU-000008.svg",
     statistics: [
       "33,643 points",
       "7,047 rebaunds",
@@ -110,8 +110,8 @@ export const data = [
     ],
   },
   {
-    name: "Charles Barkley",
-    img: "https://freshairarchive.org/sites/default/files/styles/square_800/public/2021-08/CharlesBarkley.jpg?itok=lkOGUQ2t",
+    name: "TSG Hoffenheim",
+    img: "https://www.bundesliga.com/assets/clublogo/DFL-CLU-000002.svg",
     statistics: [
       "23,757 points",
       "12,546 rebaunds",
