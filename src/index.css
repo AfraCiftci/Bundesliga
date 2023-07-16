@@ -19,7 +19,7 @@ body {
 .player-card {
   height: 400px;
   & img {
-    filter:blur(3px);
+    
     transition: transform 0.3s;
   }
   &:hover {

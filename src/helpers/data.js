@@ -119,4 +119,64 @@ export const data = [
       "11 All Star",
     ],
   },
+  {
+    name: "SV Werder Bremen",
+    img: "https://www.bundesliga.com/assets/clublogo/DFL-CLU-00000E.svg",
+    statistics: [
+      "23,757 points",
+      "12,546 rebaunds",
+      "4,215 assist",
+      "11 All Star",
+    ],
+  },
+  {
+    name: "VfL Bochum 1848",
+    img: "https://www.bundesliga.com/assets/clublogo/DFL-CLU-00000S.svg",
+    statistics: [
+      "23,757 points",
+      "12,546 rebaunds",
+      "4,215 assist",
+      "11 All Star",
+    ],
+  },
+  {
+    name: "FC Augsburg",
+    img: "https://www.bundesliga.com/assets/clublogo/DFL-CLU-000010.svg",
+    statistics: [
+      "23,757 points",
+      "12,546 rebaunds",
+      "4,215 assist",
+      "11 All Star",
+    ],
+  },
+  {
+    name: "VfB Stuttgart",
+    img: "https://www.bundesliga.com/assets/clublogo/DFL-CLU-00000D.svg",
+    statistics: [
+      "23,757 points",
+      "12,546 rebaunds",
+      "4,215 assist",
+      "11 All Star",
+    ],
+  },
+  {
+    name: "SV Darmstadt 98",
+    img: "https://www.bundesliga.com/assets/clublogo/DFL-CLU-000016.svg",
+    statistics: [
+      "23,757 points",
+      "12,546 rebaunds",
+      "4,215 assist",
+      "11 All Star",
+    ],
+  },
+  {
+    name: "1. FC Heidenheim 1846",
+    img: "https://www.bundesliga.com/assets/clublogo/DFL-CLU-000018.svg",
+    statistics: [
+      "23,757 points",
+      "12,546 rebaunds",
+      "4,215 assist",
+      "11 All Star",
+    ],
+  },
 ];
