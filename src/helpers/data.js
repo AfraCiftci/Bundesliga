@@ -2,6 +2,7 @@ export const data = [
   {
     name: "FC Bayern München",
     img: "https://www.bundesliga.com/assets/clublogo/DFL-CLU-00000G.svg",
+    stadion: "Allianz Arena",
     statistics: [
       "38,387 points",
       "17,440 rebaunds",

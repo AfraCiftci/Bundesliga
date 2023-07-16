@@ -5,12 +5,13 @@
 }
 
 body {
-  background-color:#f4d467;
+  background-color:rgb(17, 147, 199);
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: black;
 }
 
 .card-container {
-  background-image: url("./assets/nba.jpg");
+  background-image: url("./assets/bundesliga.png");
   background-size: 100% 100%;
   background-repeat: no-repeat;
   min-height: 400px;

@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import Col from "react-bootstrap/Col";
 import Card from "react-bootstrap/Card";
 
-const PlayerCard = ({ name, img, statistics }) => {
+const PlayerCard = ({ name, img, statistics, stadion }) => {
   const [showImage, setShowImage] = useState(true);
   // && || ?:
   return (
@@ -23,7 +23,7 @@ const PlayerCard = ({ name, img, statistics }) => {
             {statistics.map((item, i) => (
               <li className="list-unstyled h5 text-start" key={i}>
                 {" "}
-                🏀 {item}
+                ⚽ {item}
               </li>
             ))}
           </ul>

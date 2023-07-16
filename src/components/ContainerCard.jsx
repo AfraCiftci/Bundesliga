@@ -24,7 +24,7 @@ const ContainerCard = () => {
     <>
       <Form.Control
         type="search"
-        placeholder="Search Player..."
+        placeholder="Suche nach einer Fußballmannschaft..."
         onChange={handleChange}
       />
       <Container className="p-3 rounded-4 card-container my-3">
