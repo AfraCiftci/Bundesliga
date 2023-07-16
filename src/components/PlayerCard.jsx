@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import Col from "react-bootstrap/Col";
 import Card from "react-bootstrap/Card";
 
-const PlayerCard = ({ name, img, stadion, statistics }) => {
+const PlayerCard = ({ name, img, statistics }) => {
   const [showImage, setShowImage] = useState(true);
   // && || ?:
   return (

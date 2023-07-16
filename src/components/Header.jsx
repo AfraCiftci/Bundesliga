@@ -6,7 +6,7 @@ const Header = () => {
   return (
     <Container>
       <Image src={logo} width="200px"  />
-      <h1 className="my-2">Fußball-Bundesliga</h1>
+      <h1 className="my-2">Fußball-Bundesliga 2022-2023</h1>
     </Container>
   );
 };
