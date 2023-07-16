@@ -13,6 +13,7 @@ export const data = [
   {
     name: "Borussia Dortmund",
     img: "https://www.bundesliga.com/assets/clublogo/DFL-CLU-000007.svg",
+    stadion: "0",
     statistics: [
       "21,791 points",
       "8,974 rebaunds",

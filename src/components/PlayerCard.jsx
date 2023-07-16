@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import Col from "react-bootstrap/Col";
 import Card from "react-bootstrap/Card";
 
-const PlayerCard = ({ name, img, statistics, stadion }) => {
+const PlayerCard = ({ name, img, stadion, statistics }) => {
   const [showImage, setShowImage] = useState(true);
   // && || ?:
   return (
@@ -26,6 +26,7 @@ const PlayerCard = ({ name, img, statistics, stadion }) => {
                 ⚽ {item}
               </li>
             ))}
+            
           </ul>
         )}
         <Card.Footer>
