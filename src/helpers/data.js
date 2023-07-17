@@ -41,7 +41,7 @@ export const data = [
     statistics: [
       "Europa-Park Stadion",
       "50 Tore",
-      "5,633 assist",
+      "8 Elfmeter",
     ],
   },
   {
@@ -50,7 +50,7 @@ export const data = [
     statistics: [
       "BayArena",
       "57 Tore",
-      "5,248 assist",
+      "7 Elfmeter",
     ],
   },
   {
@@ -59,7 +59,7 @@ export const data = [
     statistics: [
       "Deutsche Bank Park",
       "58 Tore",
-      "3,058 assist",
+      "6 Elfmeter",
     ],
   },
   {
@@ -68,7 +68,7 @@ export const data = [
     statistics: [
       "Volkswagen Arena",
       "57 Tore",
-      "3,026 assist",
+      "7 Elfmeter",
     ],
   },
   {
@@ -77,7 +77,7 @@ export const data = [
     statistics: [
       "Mewa Arena",
       "54 Tore",
-      "6,135 assist",
+      "6 Elfmeter",
     ],
   },
   {
@@ -86,16 +86,16 @@ export const data = [
     statistics: [
       "Borussia-Park",
       "52 Tore",
-      "2,215 assist",
+      "6 Elfmeter",
     ],
   },
   {
     name: "1. FC Köln",
     img: "https://www.bundesliga.com/assets/clublogo/DFL-CLU-000008.svg",
     statistics: [
-      "Rhein Energie STADION",
+      "Rhein Energie Stadion",
       "49 Tore",
-      "6,306 assist",
+      "4 Elfmeter",
     ],
   },
   {
@@ -104,7 +104,7 @@ export const data = [
     statistics: [
       "PreZero Arena",
       "48 Tore",
-      "4,215 assist",
+      "9 Elfmeter",
       
     ],
   },
@@ -114,7 +114,7 @@ export const data = [
     statistics: [
       "wohninvest Weserstadion",
       "51 Tore",
-      "4,215 assist",
+      "6 Elfmeter",
       
     ],
   },
@@ -124,7 +124,7 @@ export const data = [
     statistics: [
       "Vonovia Ruhrstadion",
       "40 Tore",
-      "4,215 assist",
+      "3 Elfmeter",
       
     ],
   },
@@ -134,7 +134,7 @@ export const data = [
     statistics: [
       "Wwk Arena",
       "42 Tore",
-      "4,215 assist",
+      "5 Elfmeter",
      
     ],
   },
@@ -142,9 +142,9 @@ export const data = [
     name: "VfB Stuttgart",
     img: "https://www.bundesliga.com/assets/clublogo/DFL-CLU-00000D.svg",
     statistics: [
-      "Mercedes-Bnez Arena",
+      "Mercedes-Benz Arena",
       "45 Tore",
-      "4,215 assist",
+      "5 Elfmeter",
       
     ],
   },
@@ -153,18 +153,18 @@ export const data = [
     img: "https://www.bundesliga.com/assets/clublogo/DFL-CLU-000016.svg",
     statistics: [
       "Merck-Stadion am Böllenfalltor",
-      "12,546 rebaunds",
-      "4,215 assist",
+      "40 Tore",
+      "6 Elfmeter",
       
     ],
   },
   {
-    name: "1. FC Heidenheim 1846",
-    img: "https://www.bundesliga.com/assets/clublogo/DFL-CLU-000018.svg",
+    name: "Hertha BSC",
+    img: "https://www.bundesliga.com/assets/clublogo/DFL-CLU-00000Z.svg",
     statistics: [
-      "Voith-Arena",
-      "12,546 rebaunds",
-      "4,215 assist",
+      "Olympiastadion",
+      "42 Tore",
+      "7 Elfmeter",
       
     ],
   },
