@@ -42,7 +42,6 @@ export const data = [
       "Europa-Park Stadion",
       "50 Tore",
       "5,633 assist",
-      "14 All Star",
     ],
   },
   {
@@ -52,7 +51,6 @@ export const data = [
       "BayArena",
       "57 Tore",
       "5,248 assist",
-      "14 All Star",
     ],
   },
   {
@@ -62,7 +60,6 @@ export const data = [
       "Deutsche Bank Park",
       "58 Tore",
       "3,058 assist",
-      "12 All Star",
     ],
   },
   {
@@ -72,7 +69,6 @@ export const data = [
       "Volkswagen Arena",
       "57 Tore",
       "3,026 assist",
-      "15 All Star",
     ],
   },
   {
@@ -82,7 +78,6 @@ export const data = [
       "Mewa Arena",
       "54 Tore",
       "6,135 assist",
-      "7 All Star",
     ],
   },
   {
@@ -92,7 +87,6 @@ export const data = [
       "Borussia-Park",
       "52 Tore",
       "2,215 assist",
-      "11 All Star",
     ],
   },
   {
@@ -102,7 +96,6 @@ export const data = [
       "Rhein Energie STADION",
       "49 Tore",
       "6,306 assist",
-      "18 All Star",
     ],
   },
   {
@@ -112,7 +105,7 @@ export const data = [
       "PreZero Arena",
       "48 Tore",
       "4,215 assist",
-      "11 All Star",
+      
     ],
   },
   {
@@ -122,7 +115,7 @@ export const data = [
       "wohninvest Weserstadion",
       "51 Tore",
       "4,215 assist",
-      "11 All Star",
+      
     ],
   },
   {
@@ -132,7 +125,7 @@ export const data = [
       "Vonovia Ruhrstadion",
       "40 Tore",
       "4,215 assist",
-      "11 All Star",
+      
     ],
   },
   {
@@ -142,7 +135,7 @@ export const data = [
       "Wwk Arena",
       "42 Tore",
       "4,215 assist",
-      "11 All Star",
+     
     ],
   },
   {
@@ -152,7 +145,7 @@ export const data = [
       "Mercedes-Bnez Arena",
       "45 Tore",
       "4,215 assist",
-      "11 All Star",
+      
     ],
   },
   {
@@ -162,7 +155,7 @@ export const data = [
       "Merck-Stadion am Böllenfalltor",
       "12,546 rebaunds",
       "4,215 assist",
-      "11 All Star",
+      
     ],
   },
   {
@@ -172,7 +165,7 @@ export const data = [
       "Voith-Arena",
       "12,546 rebaunds",
       "4,215 assist",
-      "11 All Star",
+      
     ],
   },
 ];
